@@ -2,7 +2,8 @@
 - 👀 I’m interested in MERN Stack Development
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me contact me at zoraizbinzahid@gmal.com
+- 📫 How to reach me contact me at zoraizbinzahid@gmal.com || Instagram: @zoraizzahid_ || Twitter: @zoraizbinzahid  
+                                                            
 
 <!---
 zoraizzahid/zoraizzahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
