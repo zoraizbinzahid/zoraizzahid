@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a Full Stack Developer
 - 👀 I’m interested in Mern | Python
-- 📫 How to reach me contact me at zoraizbinzahid@gmal.com || Instagram: @zoraizzahid_ || Twitter: @zoraizbinzahid  
+- 📫 How to reach me contact me at zoraizbinzahid@gmal.com || Linkedin: @zoraizbinzahid || Twitter: @zoraizbinzahid  
                                                             
 
 <!---
