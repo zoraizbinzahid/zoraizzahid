@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @zoraizzahid
-- 👀 I’m interested in MERN Stack Development
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m a Full Stack Developer
+- 👀 I’m interested in Mern | Python
 - 📫 How to reach me contact me at zoraizbinzahid@gmal.com || Instagram: @zoraizzahid_ || Twitter: @zoraizbinzahid  
                                                             
 
