@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a Full Stack Developer
-- 👀 I’m interested in Mern || Python
+- 👀 I’m interested in REACT || NEXT.js
 - 📫 How to reach me contact me at || Linkedin: @zoraizbinzahid 
 - 👨‍💻 Hire me: https://www.fiverr.com/zoraizzahid31?public_mode=true                                           
 
