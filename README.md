@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a Full Stack Developer
 - 👀 I’m interested in REACT || NEXT.js
-- 📫 How to reach me contact me at || Linkedin: @zoraizbinzahid 
+- 📫 How to reach me contact me at || zoraizbinzahid@gmail.com 
 - 👨‍💻 Hire me: https://www.fiverr.com/zoraizzahid31?public_mode=true                                           
 
 <!---
